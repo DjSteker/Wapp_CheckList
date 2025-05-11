@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<body>
+  <Transaccion></Transaccion>
+  <tabla1>
+    <C_Id></C_Id>
+    <C_Nombre></C_Nombre>
+    <C_Destino></C_Destino>
+    <C_PuntoDescarga></C_PuntoDescarga> 
+  </tabla1>
+</body>

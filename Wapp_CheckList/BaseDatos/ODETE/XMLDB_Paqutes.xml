@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<body>
+  <Transaccion></Transaccion>
+  <tabla1>
+    <Id></Id>
+    <ParteNumero></ParteNumero>
+    <Descripcion></Descripcion>
+    <Contenedor></Contenedor>
+    <Descripcion></Descripcion>
+    <Cantidad></Cantidad>
+    <Mano></Mano>
+    <CodAntiguo></CodAntiguo>
+    <Codigo></Codigo>
+    <Pohuer></Pohuer>
+    <Nombre></Nombre>
+    <PesoNeto></PesoNeto>
+    <PesoBruto></PesoBruto>
+    <IndiceModificacion></IndiceModificacion>
+    <CodigoVendedor></CodigoVendedor>
+    <SimboloSeguridad></SimboloSeguridad>
+  </tabla1>
+</body>

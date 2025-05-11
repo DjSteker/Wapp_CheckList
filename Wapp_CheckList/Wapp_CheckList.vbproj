@@ -1,0 +1,127 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows8.0</TargetFramework>
+    <StartupObject>Sub Main</StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
+    <MyType>WindowsForms</MyType>
+    <SupportedOSPlatformVersion>8.0</SupportedOSPlatformVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BaseDatos\ODETE\**" />
+    <Compile Remove="ChatDimaci\**" />
+    <Compile Remove="ClassModule\Herramientas\**" />
+    <Compile Remove="ClassModule\Matematicas\**" />
+    <Compile Remove="ClassModule\PerceptronEscaso\**" />
+    <Compile Remove="ClassModule\PerceptronGithub\**" />
+    <Compile Remove="QRCode\**" />
+    <EmbeddedResource Remove="BaseDatos\ODETE\**" />
+    <EmbeddedResource Remove="ChatDimaci\**" />
+    <EmbeddedResource Remove="ClassModule\Herramientas\**" />
+    <EmbeddedResource Remove="ClassModule\Matematicas\**" />
+    <EmbeddedResource Remove="ClassModule\PerceptronEscaso\**" />
+    <EmbeddedResource Remove="ClassModule\PerceptronGithub\**" />
+    <EmbeddedResource Remove="QRCode\**" />
+    <None Remove="BaseDatos\ODETE\**" />
+    <None Remove="ChatDimaci\**" />
+    <None Remove="ClassModule\Herramientas\**" />
+    <None Remove="ClassModule\Matematicas\**" />
+    <None Remove="ClassModule\PerceptronEscaso\**" />
+    <None Remove="ClassModule\PerceptronGithub\**" />
+    <None Remove="QRCode\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Calendario\diario\diario\Form_Diario.Designer.vb" />
+    <Compile Remove="Calendario\diario\diario\Form_Diario.vb" />
+    <Compile Remove="ClassModule\BaseDatos\Class_ApiConfig.vb" />
+    <Compile Remove="ClassModule\BaseDatos\Class_Canciones.vb" />
+    <Compile Remove="ClassModule\BaseDatos\Class_CerebrosArchivosXML.vb" />
+    <Compile Remove="ClassModule\BaseDatos\Class_CerebroXML.vb" />
+    <Compile Remove="ClassModule\BaseDatos\Class_Contadores.vb" />
+    <Compile Remove="ClassModule\BaseDatos\Class_Josnson.vb" />
+    <Compile Remove="ClassModule\BaseDatos\Class_JSON.vb" />
+    <Compile Remove="ClassModule\BaseDatos\Class_JSON_0.vb" />
+    <Compile Remove="ClassModule\BaseDatos\Class_Json_V1.vb" />
+    <Compile Remove="ClassModule\BaseDatos\Class_Paises.vb" />
+    <Compile Remove="ClassModule\BaseDatos\Class_PaisesISO.vb" />
+    <Compile Remove="ClassModule\BaseDatos\Class_XMLFrecuenciasRadio.vb" />
+    <Compile Remove="ClassModule\BaseDatos\Class_XmlServidores.vb" />
+    <Compile Remove="ClassModule\BaseDatos\Class_XmlSocketServer.vb" />
+    <Compile Remove="ClassModule\Utiles\Class_APRS.vb" />
+    <Compile Remove="ClassModule\Utiles\Class_DSP_V0.vb" />
+    <Compile Remove="ClassModule\Utiles\Class_FiltroEMA.vb" />
+    <Compile Remove="ClassModule\Utiles\Class_FIR.vb" />
+    <Compile Remove="ClassModule\Utiles\Class_GeneradorSeñales.vb" />
+    <Compile Remove="ClassModule\Utiles\Class_JPEG_3.vb" />
+    <Compile Remove="ClassModule\Utiles\Class_Kalman.vb" />
+    <Compile Remove="ClassModule\Utiles\Class_PhaseVocoder.vb" />
+    <Compile Remove="ClassModule\Utiles\Class_Pid - Copia.vb" />
+    <Compile Remove="ClassModule\Utiles\Class_Pid.vb" />
+    <Compile Remove="ClassModule\Utiles\Class_ROS_FT8.vb" />
+    <Compile Remove="ClassModule\Utiles\Class_RTTY.vb" />
+    <Compile Remove="ClassModule\Utiles\Class_SoundInfo1.vb" />
+    <Compile Remove="ClassModule\Utiles\Class_Tiempo.vb" />
+    <Compile Remove="CodigosQR\Form_WebCam.Designer.vb" />
+    <Compile Remove="CodigosQR\Form_WebCam.vb" />
+    <Compile Remove="Form_Nabegador.Designer.vb" />
+    <Compile Remove="Form_Nabegador.vb" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Calendario\diario\diario\Form_Diario.resx" />
+    <EmbeddedResource Remove="CodigosQR\Form_WebCam.resx" />
+    <EmbeddedResource Remove="Form_Nabegador.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="My Project\Application.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Update="My Project\Resources.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="My Project\Settings.Designer.vb">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Update="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Calendario\diario\diario\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

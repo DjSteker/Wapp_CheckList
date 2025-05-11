@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<body>
+  <Transaccion></Transaccion>
+  <tabla1>
+    <R_Envio>
+      <C_Id>0</C_Id>
+      <C_Destino>1</C_Destino>
+      <C_PuntoDescarga>2</C_PuntoDescarga>
+      <C_Expedidor>3</C_Expedidor>
+      <C_ReferenciaPedido>4</C_ReferenciaPedido>
+      <C_ReferenciaPedidoTitulo>Nº PEDIDO (K)</C_ReferenciaPedidoTitulo>
+      <C_PuntoDestino>5</C_PuntoDestino>
+      <C_CodigoProducto>6</C_CodigoProducto>
+      <C_SimboloSeguridad>7</C_SimboloSeguridad>
+      <C_PesoNeto>8</C_PesoNeto>
+      <C_PesoBruto>9</C_PesoBruto>
+      <C_Fecha>10</C_Fecha>
+      <C_NumeroUnidades>11</C_NumeroUnidades>
+      <C_NumeroUnidadesMedida>
+      </C_NumeroUnidadesMedida>
+      <C_IdentificadorEmbalage>12</C_IdentificadorEmbalage>
+      <C_IdentificadorEmbalageTitulo>Nº ETIQUETA (S)</C_IdentificadorEmbalageTitulo>
+      <C_IdentificadorEmbalageAgencia>
+      </C_IdentificadorEmbalageAgencia>
+      <C_CantidadEmbalajes>15</C_CantidadEmbalajes>
+      <C_CantidadEmbalajesMedida>
+      </C_CantidadEmbalajesMedida>
+      <C_Descripcion>16</C_Descripcion>
+      <C_ReferenciaProveedor>17</C_ReferenciaProveedor>
+      <C_ReferenciaProveedorTitulo>REF PROVEEDOR</C_ReferenciaProveedorTitulo>
+      <C_NumeroLote>18</C_NumeroLote>
+      <C_IndiceModificacion>19</C_IndiceModificacion>
+      <C_CodigoVendedor>20</C_CodigoVendedor>
+      <C_Estado>21</C_Estado>
+      <C_UltimaModificacion>27/04/2015 17:16:24</C_UltimaModificacion>
+    </R_Envio>
+  </tabla1>
+</body>

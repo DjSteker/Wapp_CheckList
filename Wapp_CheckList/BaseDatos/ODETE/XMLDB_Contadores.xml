@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<body>
+  <Transaccion></Transaccion>
+  <tabla1>
+    <contador>
+      <NombreContador>ContadorClientes</NombreContador>
+      <Cuenta>0</Cuenta>
+    </contador>
+    <contador>
+      <NombreContador>ContadorArticulos</NombreContador>
+      <Cuenta>0</Cuenta>
+    </contador>
+    <contador>
+      <NombreContador>ContadorEnvios</NombreContador>
+      <Cuenta>0</Cuenta>
+    </contador>
+  </tabla1>
+</body>

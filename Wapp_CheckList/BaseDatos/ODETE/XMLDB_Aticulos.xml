@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-15" ?>
+<body>
+  <Transaccion></Transaccion>
+  <tabla1>
+    <Rejistro>
+      <C_Id></C_Id>
+      <C_Nombre></C_Nombre>
+      <C_CodigoProducto></C_CodigoProducto>
+      <C_SimboloSeguridad></C_SimboloSeguridad>
+      <C_PesoUnidad></C_PesoUnidad>
+      <C_Descripcion></C_Descripcion>
+    </Rejistro>
+  </tabla1>
+</body>

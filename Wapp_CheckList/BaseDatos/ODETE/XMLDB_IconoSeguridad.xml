@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<body>
+  <Transaccion></Transaccion>
+  <tabla1>
+    <R_Envio>
+      <C_Nombre></C_Nombre>
+      <C_Ubicacion></C_Ubicacion>
+      <C_Descripcion></C_Descripcion>
+    </R_Envio>
+  </tabla1>
+</body>

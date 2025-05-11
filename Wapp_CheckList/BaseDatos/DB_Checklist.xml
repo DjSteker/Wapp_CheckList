@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<checklists>
+  <checklist id="dec13814-0225-4ddc-852d-06f588943828" nombre="Titulo" tipo="Tipo" tematica="tema1">
+    <funciones>
+      <item id="f8abfa29-5a08-456c-a068-ae073a4bd081">
+        <descripcion>d1</descripcion>
+        <completado>False</completado>
+        <notas>n1</notas>
+      </item>
+      <item id="756a4447-45ef-46e7-937a-b3e2cee00645">
+        <descripcion>qq1</descripcion>
+        <completado>False</completado>
+        <notas>nnn1</notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="3d69020a-7242-4a0f-b030-08c62ad57ea7" nombre="Fuctosa y glugosa de la sacarosa" tipo="Cocina" tematica="Alimento">
+    <funciones>
+      <item id="7eb48f24-24f9-41af-b908-c51702a0ab64">
+        <descripcion>
+          50ml de agua
+          3ml de jugo de limón
+          50gr de azucar
+
+          Si sobrepasas la temperatura al hidrolizar sacarosa (o al calentar soluciones azucaradas), los azúcares pueden descomponerse y producir subproductos no deseados debido a reacciones térmicas. Esto incluye:
+
+          1. Caramelización:
+          A temperaturas superiores a 110°C, los azúcares comienzan a caramelizarse. Este proceso implica la descomposición térmica de la glucosa y la fructosa, dando lugar a compuestos como el hidroximetilfurfural (HMF), que confiere un color marrón y un sabor característico.
+
+          Si la temperatura continúa aumentando, se forman productos más oscuros y amargos.
+
+          2. Formación de Hidroximetilfurfural (HMF):
+          A temperaturas elevadas, especialmente por encima de los 160°C, la fructosa y la glucosa pueden deshidratarse, formando HMF. Este compuesto es considerado un marcador de sobrecalentamiento en productos azucarados.
+
+          3. Carbonización:
+          Si la temperatura sube demasiado (por encima de 200°C), el azúcar puede carbonizarse, produciendo humo y residuos carbonosos (carbono negro). Este proceso es esencialmente una quema del azúcar.
+
+          Efectos en la calidad del producto:
+          Alteración del sabor: Los productos caramelizados suelen tener un sabor amargo o quemado.
+
+          Pérdida de propiedades nutritivas: La glucosa y fructosa pierden su valor alimenticio y energético debido a la descomposición.
+
+          Compuestos potencialmente dañinos: En exceso, el HMF puede ser tóxico para las células.
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+          No calentar por encima de 70ºC
+
+          Si sobrepasas la temperatura al hidrolizar sacarosa (o al calentar soluciones azucaradas), los azúcares pueden descomponerse y producir subproductos no deseados debido a reacciones térmicas. Esto incluye:
+
+          1. Caramelización:
+          A temperaturas superiores a 110°C, los azúcares comienzan a caramelizarse. Este proceso implica la descomposición térmica de la glucosa y la fructosa, dando lugar a compuestos como el hidroximetilfurfural (HMF), que confiere un color marrón y un sabor característico.
+
+          Si la temperatura continúa aumentando, se forman productos más oscuros y amargos.
+
+          2. Formación de Hidroximetilfurfural (HMF):
+          A temperaturas elevadas, especialmente por encima de los 160°C, la fructosa y la glucosa pueden deshidratarse, formando HMF. Este compuesto es considerado un marcador de sobrecalentamiento en productos azucarados.
+
+          3. Carbonización:
+          Si la temperatura sube demasiado (por encima de 200°C), el azúcar puede carbonizarse, produciendo humo y residuos carbonosos (carbono negro). Este proceso es esencialmente una quema del azúcar.
+
+          Efectos en la calidad del producto:
+          Alteración del sabor: Los productos caramelizados suelen tener un sabor amargo o quemado.
+
+          Pérdida de propiedades nutritivas: La glucosa y fructosa pierden su valor alimenticio y energético debido a la descomposición.
+
+          Compuestos potencialmente dañinos: En exceso, el HMF puede ser tóxico para las células.
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="6f31a697-5801-43fd-8294-ec5a76a27c65" nombre="PDA" tipo="Medio solido" tematica="Cultivo">
+    <funciones>
+      <item id="58f46290-25f8-4fe6-9f57-5f7d5dbc76d3">
+        <descripcion>
+          700 ml de agua
+          Asa los trozos de patata durante 30 minutos, preferiblemente en una olla a presión.
+          Toma 500 ml de extracto de patata.
+          Añade 8 g de agar-agar y 5 g de miel (o equivalente).
+          Deja que hierva.
+          Añádelo a un frasco para esterilizarlo en una olla a presión durante 30 minutos
+          Y caliente pasar a los envases de cultivo
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="854ee622-192e-4fe9-b098-df12870d2d00" nombre="Medio de cultivo" tipo="Medio solido" tematica="Cultivo">
+    <funciones>
+      <item id="d1b227dc-8d0f-4402-8de0-a6db288e97f9">
+        <descripcion>
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="d372cc28-b551-493e-a45e-398f40ff0ae4">
+        <descripcion>
+          Ingredientes
+          500ml de agua
+          9g de Agar agar
+          7g de extracto de malta
+          1g de elevadura de cerveza
+          1g de harina de maiz
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="302cce03-afe6-40e0-9bc6-a0e5044149d1">
+        <descripcion>
+          Mezclar todo
+          y mantener unos 5 minutos en precalentamiento
+          y despues 20 minutos a presiín
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="b58906aa-72a5-44cb-a2b7-66fd484d0219" nombre="PDA 2" tipo="Medio solido" tematica="Cultivo">
+    <funciones>
+      <item id="a0d19973-c7ba-4d2f-87d8-fad4395a7a5b">
+        <descripcion>
+          Ingredientes:
+          250g de patatas
+          30g de agar agar
+          15g de destroxa (miel, azúcar, panela)
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="775eba45-238f-4744-84f4-aeca8f0e5cda">
+        <descripcion>cocer las patatas 40min y colar el caldo</descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="9e3c4380-98a2-42fe-abdd-53630072f8a4">
+        <descripcion>agregar al caldo el agar y el azúcar y llevar a ebulleción</descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="7c4729bd-ac0f-4f25-8e73-97fde39250ed">
+        <descripcion>Esterilizar durante 20 minutos a 121ºC a 15psi y dejar enfriar asta 60-50ºC para envasarlo</descripcion>
+        <completado>False</completado>
+        <notas>el medio PDA se solidifica a 40ºC</notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="23c100fe-e804-45a9-b7bf-809a62d33fa0" nombre="PDIA" tipo="Medio solido" tematica="Cultivo">
+    <funciones>
+      <item id="729a0d44-d19b-43f0-99e7-27659388114e">
+        <descripcion>
+          Ingredientes:
+          250g de patatas
+          30g de agar agar
+          13g de dextrosa (miel, azúcar, panela)
+          2g de levadura
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="65c25ca5-67f6-4a11-8e55-598a45f3917e">
+        <descripcion>Cocer las patatas 40 min y colar el caldo</descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="a65cc480-db70-45af-a2cf-cc49a199cc4c">
+        <descripcion>Agregar al caldo el agar y el azúcar y llevar a ebullición</descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="fb00e7da-e2f0-465c-a63d-9b18681f795c">
+        <descripcion>Esterilizar durante 20 minutos a 121ºC a 15psi y dejar enfriar asta 60-50ºC para envasarlo</descripcion>
+        <completado>False</completado>
+        <notas>
+          el medio PDA se solidifica a 40ºC
+          si no se dispone de una olla a presión se debe duplicar el tiempo de pasteurización
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="52fe21fb-5871-48c2-bad7-c08454fdd1ce" nombre="MEA" tipo="Medio solido" tematica="Cultivo">
+    <funciones>
+      <item id="6b156442-4d7a-4e01-89e5-1b623a8c5912">
+        <descripcion>
+          Ingredientes:
+          1L de agua
+          250g de patatas
+          30g de agar agar
+          10g de levadura
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="e1d87881-98c2-4a0f-a25c-e7ebc1b4a747">
+        <descripcion>Cocer las patatas 40 min y colar el caldo</descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="2d7ed8a7-364e-434b-a8d6-0a4d7be34359">
+        <descripcion>Agregar al caldo el agar y el azúcar y llevar a ebullición</descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="4ce77536-1053-4e8d-8376-250216371d31">
+        <descripcion>Esterilizar durante 20 minutos a 121ºC a 15psi y dejar enfriar asta 60-50ºC para envasarlo</descripcion>
+        <completado>False</completado>
+        <notas>
+          el medio PDA se solidifica a 40ºC
+          si no se dispone de una olla a presión se debe duplicar el tiempo de pasteurización
+        </notas>
+      </item>
+      <item id="5a81866b-fa48-4dbd-b171-9dd0e2d51379">
+        <descripcion>
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="16f97dbf-b371-45a2-b50d-e7b8d5e03117" nombre="MYA" tipo="Medio solido" tematica="Cultivo">
+    <funciones>
+      <item id="19e0f7be-182a-4b2d-af7d-32646a9f738e">
+        <descripcion>
+          Ingredientes:
+          500ml de agua
+          9g de agar agar
+          7g extracto de malta ruiboa
+          1g de harina de maíz
+          1g de levadura de cerveza en copo
+          3 gotas de colorante alimentario
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="6fdbd418-6d54-4065-bb73-7c753ae0c61b">
+        <descripcion>mezclar todo y esterelizar 20 minutos a 121ºC, 15psi</descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="043efde6-6a0c-427c-978e-5fdb6425f758" nombre="Honey-tek" tipo="Medio liquido" tematica="Cultivo">
+    <funciones>
+      <item id="737abd37-ab7a-40e8-9eb7-3c29baef112b">
+        <descripcion>
+          Ingredientes:
+          1000ml de agua
+          6-30ml de miel
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+          Incubar durante 15 días en oscuridad a 25ºC
+          Una vez desarroyado aguanta asta 6 mese a 4ºC
+        </notas>
+      </item>
+      <item id="bea3fa40-7294-4fca-86ab-d2c26d89f351">
+        <descripcion>Esterilizar durante 20 minutos a 121ºC a 15psi </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="80995333-aaaa-4237-9f41-b62602323a8e" nombre="Honey-tek (Chuño-Tek)" tipo="Medio liquido" tematica="Cultivo">
+    <funciones>
+      <item id="22a31600-af5b-4d23-b919-01c3701773bf">
+        <descripcion>
+
+          Ingredientes:
+          1000ml de agua
+          10-30ml de almidón
+
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+          Incubar durante 15 días en oscuridad a 25ºC
+          Una vez desarroyado aguanta asta 6 mese a 4ºC
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="5e3bc3e1-fec5-42e3-b7a3-344f708d2b1f" nombre="Sustrato para setas 	Agaricomycetes V1" tipo="Medio solido" tematica="Cultivo">
+    <funciones>
+      <item id="eb3ea3aa-0201-41fd-a9b9-be5ddb09c92b">
+        <descripcion>
+          Ingredientes:
+          78% aserrín de maderas duras (Quercus)
+          20% salvado de trigo
+          1% yeso (Sulfato de calcio CaSO4)
+          1% melaza o panel
+
+          4 horas de pasteurizazión
+        </descripcion>
+        <completado>False</completado>
+        <notas>Sustrato para setas 	Agaricomycetes Hymenogastraceae</notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="2cd24080-ad9e-429c-a23a-c51207f2a9da" nombre="Sustrato para setas 	Agaricomycetes PC PerfectTek" tipo="Medio solido" tematica="Cultivo">
+    <funciones>
+      <item id="dd4849df-684f-4c8e-badc-a547c56f141e">
+        <descripcion>
+          Ingredientes:
+          250ml de vermiculita
+          125ml de harina de arroz integral
+          125ml de agua destilada
+          1 tarro de 500ml
+
+          1 horas de esterelización
+        </descripcion>
+        <completado>False</completado>
+        <notas>Sustrato para setas 	Agaricomycetes Hymenogastraceae</notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="b4d38c57-4ab1-4296-8a0c-dcbb0a8ac040" nombre="Remedio hormonas auxina" tipo="Remedio plantas" tematica="Cultivo">
+    <funciones>
+      <item id="40eee3fb-d7cf-4789-83ad-fae1994e57e5">
+        <descripcion>
+          Ingredientes:
+          1 botella de 1,5L de agua , y agua natural
+          un puñado de arroz (para extraer el almidón con algunas vitaminas del grupo B)
+          Semillas de Chia un 10% del peso del agua
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="cd5aef41-b598-4825-87aa-7f417c3c2f42">
+        <descripcion>
+          Se llena la botella de agua se le añade un puñado de arroz y 150g de chia.
+          Una vez se sumergan aguitar y abrir un poco para que respire
+
+          Se deja 24 horas en emojo para que comiences a germinar las semillas de chia
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="48d0c6cf-65be-4712-a260-0c13907aeeab">
+        <descripcion>
+          Se deja 24 horas en emojo para que comiences a germinar las semillas de chia
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="eb60e717-3f4d-480d-963d-f56b0ffe85c8" nombre="Medio de cultivo Maicena" tipo="Medio solido" tematica="Cultivo">
+    <funciones>
+      <item id="e7455492-910c-4297-905d-951932741c37">
+        <descripcion>
+          • 20gr de Maizena (Harina de fécula de Maíz)
+          • 4 gr de azúcar mascabado (Sustituido por 4 ml de miel en 2024)
+          • 2 gr de levadura instantánea para pan
+          • 250 ml de agua purificada
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="65d71a6a-72b4-4930-bd71-7b69ee48ab45">
+        <descripcion>
+          Mezclar todo y calentar asta hervir, remobiendo para que no se pegue ni se hagan grumos
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="5d631f63-a679-4cd5-ba36-8bb173b479cc">
+        <descripcion>
+          hesterelizar
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="7933b988-3ada-44e1-817e-af4be15bd6ba" nombre="MYPA" tipo="Medio solido" tematica="Cultivo">
+    <funciones>
+      <item id="2d459a5c-788d-487b-bad7-6437ffdb3332">
+        <descripcion>
+          Ingredientes:
+          1L de agua destilada
+          20g de extracto de malta (rubia)
+          2g de levadura de cerveza
+          1g de peptona
+          10g de glucosa
+          20g de agar
+
+          Esterilizar durante 20 minutos a 121ºC a 15psi
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="1da9a9d0-a1d9-424b-8c9a-c466ee692a33" nombre="Miel bebida deporte" tipo="Medio liquido" tematica="Cultivo">
+    <funciones>
+      <item id="95f09a1e-8302-4cdc-9a20-599b13d6b5aa">
+        <descripcion>
+          Ingredientes:
+          250ml de agua
+          2ml de miel
+          1,5ml de Gatorade, Acuarius
+        </descripcion>
+        <completado>False</completado>
+        <notas>No debe pasar de un 4% de dextrosa en la solucion final</notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="fb23c95c-b177-4d37-856b-38a766517596" nombre="Medio en trigo" tipo="Medio solido" tematica="Cultivo">
+    <funciones>
+      <item id="2fc927aa-97d1-4973-9641-5d96cb6c7e48">
+        <descripcion>
+          lavar el grano
+          se puede echas peroxido de hidrógeno para ir esterelizando
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="dd6dc135-98d6-4832-9e2c-cca397ef4577" nombre="Medio en maíz" tipo="Medio solido" tematica="Cultivo">
+    <funciones />
+  </checklist>
+  <checklist id="0f2742f9-0195-4a26-a05a-baa8c3972bd1" nombre="Absenta" tipo="Cocina" tematica="Todas">
+    <funciones>
+      <item id="500ee73a-1674-4729-80a6-cbd505cd27a7">
+        <descripcion>
+          INGREDIENTES
+          -Alcohol etilico alimenticio 1.06 L
+          -Agua 0.64 L
+          -Colorante (opcional) 1.2ml
+          -Ajenjo 15g
+          -Semillas de anis 15g
+          -Semillas de hinojo 15g
+          -Anis estrellado 3g
+          -Raiz de Angelica 3g
+          -Nuez moscada 3g
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="58e1bc7e-aa58-47fa-b9f7-35e60af3ceb7" nombre="Trigo medio cultivo hongos" tipo="Medio solido" tematica="Cultivo">
+    <funciones>
+      <item id="c8abca9e-c690-4ca3-8436-b197a3579281">
+        <descripcion>
+          Trigo ,
+          se lava
+          y se puede añadir un poco de peroxido de hidrogeno, dejar reposar unas horas
+          escurrir durante dos horas,
+          envasar en los tarros, llenar los tarros 3/4 para el cultivo de hongos.
+          esterelizar, durante una hora a partir de que la valvula tiene la presión
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="9b2afdf4-cdb9-48ca-b823-26fa53c3c022" nombre="Saccharomyces cerevisiae" tipo="Cocina" tematica="Cultivo">
+    <funciones>
+      <item id="e7224309-ac8f-4902-9cf5-adeb2418a88c">
+        <descripcion>
+          La levadura de cerveza (Saccharomyces cerevisiae)
+
+          Saccharo azúcar, myces hongo y cerevisiae cerveza es un hongo unicelular, un tipo de levadura utilizado industrialmente en la fabricación de pan, cerveza y vino. El genoma de saccharomyces cerevisiae fue el primero de entre los eucariotas en ser secuenciado. En su ciclo de vida alternan dos formas, una haploide y otra diploide. Ambas formas se reproducen de forma asexual por gemación. En condiciones muy determinadas la forma diploide es capaz de reproducirse sexualmente. En estos casos se produce la meiosis en la célula formándose un asca que contiene cuatro ascosporas haploides.
+
+          Reino:	Fungi
+          División:	Ascomycota
+          Clase:	Saccharomycetes
+          Orden:	Saccharomycetales
+          Familia:	Saccharomycetaceae
+          Género:	Saccharomyces
+          Especie:	S. cerevisiae
+          Meyen ex E.C.Hansen
+          [editar datos en Wikidata]
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+      <item id="fa3ee833-2880-4adb-9006-8c52e7866bdb">
+        <descripcion>
+          Para cultivar **Saccharomyces cerevisiae** de la forma más pura posible, es fundamental controlar el medio de cultivo, las condiciones ambientales y la esterilidad del proceso. Aquí tienes algunos pasos clave:
+
+          ### **1. Selección del medio de cultivo**
+          - **Medios ricos en azúcares**: Se puede usar **melaza de caña**, **glucosa** o **extracto de levadura**.
+          - **Medios sintéticos**: Se pueden optimizar con macronutrientes y micronutrientes específicos para favorecer la producción de biomasa.
+
+          ### **2. Condiciones óptimas de crecimiento**
+          - **Temperatura**: Aproximadamente **30-37°C** para un crecimiento eficiente.
+          - **pH**: Entre **4.5 y 6.5**, dependiendo del objetivo de cultivo.
+          - **Oxígeno**: Controlar la aireación para evitar la formación excesiva de etanol en condiciones aeróbicas.
+
+          ### **3. Métodos de cultivo**
+          - **Fermentación en lote**: Se inocula la levadura en un medio estéril y se deja crecer hasta alcanzar la densidad deseada.
+          - **Fermentación en lote alimentado**: Se suministra gradualmente el sustrato para maximizar la producción de biomasa.
+          - **Fermentación continua**: Se mantiene un flujo constante de nutrientes y eliminación de productos de desecho.
+
+          ### **4. Purificación y conservación**
+          - **Filtración y centrifugación**: Para separar la biomasa de la solución de cultivo.
+          - **Lavado con agua estéril**: Para eliminar residuos del medio de cultivo.
+          - **Secado y almacenamiento**: Se puede conservar en **glicerol al 20%** o en condiciones de refrigeración.
+
+          Si quieres más detalles sobre cómo optimizar el proceso, puedes revisar estudios sobre fermentación y producción de biomasa de **Saccharomyces cerevisiae** [aquí](https://repository.javeriana.edu.co/bitstream/handle/10554/11788/CardozoGuzmanMariaCamila2012.pdf?sequence=1). 🍞✨
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="40e8e4aa-9053-42e5-b617-ca3196c5b453" nombre="Extracción Reishi" tipo="Licor" tematica="Medicina">
+    <funciones>
+      <item id="5aff5ec6-b90f-418a-81a0-c1afd61819a9">
+        <descripcion>
+          Se rellena el el bote con la mitad de picado de Ganoderma (aconsejado moler en molinillo eléctrico de café) .
+          20 gramos de misxtura de ganoderma y 800ml de alcohol tridestilado
+          Se deja reposar durante dos semanas en un sitio oscuro,  removiendo a diario
+          Se cuela después de a macerar
+          Aguanta el extracto durante 6 meses
+          Con los restos se puede hacer una extraccion como el cafe
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+  <checklist id="902c3e40-cac8-46ae-888c-75016282820f" nombre="Extracción de pico" tipo="Licor" tematica="Medicina">
+    <funciones>
+      <item id="a239839c-8945-4e40-90ea-eebd78a7d0e7">
+        <descripcion>
+          Se rellena el el un cuarto asta un tercio de picado de (aconsejado moler en molinillo eléctrico de café) .
+
+          8 gramos de misxtura de ganoderma y 47ml de alcohol tridestilado 37,5% quedando una solucion de 32%alc./vol
+
+          Se deja macerar  removiendo
+          Se cuela después de a macerar
+          Aguanta el extracto durante 6 meses
+          Con los restos se puede hacer una extracción como el café
+
+
+          8 gramos de misxtura de ganoderma y 47ml de alcohol tridestilado 40%quedando una solucion de 37%alc./vol
+        </descripcion>
+        <completado>False</completado>
+        <notas>
+        </notas>
+      </item>
+    </funciones>
+  </checklist>
+</checklists>
