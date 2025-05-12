@@ -1,7 +1,7 @@
 ﻿Imports System.IO
-#Disable Warning BC40056 ' El espacio de nombres o el tipo especificado en el 'WApp_GestionAsociacion_2019' Imports no contienen ningún miembro público o no se encuentran. Asegúrese de que el espacio de nombres o el tipo se hayan definido y de que contengan al menos un miembro público. Asegúrese de que el nombre del elemento importado no use ningún alias.
+#Disable Warning BC40056 ' El espacio de nombres o el tipo especificado en el 'WApp_Gest' Imports no contienen ningún miembro público o no se encuentran. Asegúrese de que el espacio de nombres o el tipo se hayan definido y de que contengan al menos un miembro público. Asegúrese de que el nombre del elemento importado no use ningún alias.
 Imports WApp_ProcesadoSonido
-#Enable Warning BC40056 ' El espacio de nombres o el tipo especificado en el 'WApp_GestionAsociacion_2019' Imports no contienen ningún miembro público o no se encuentran. Asegúrese de que el espacio de nombres o el tipo se hayan definido y de que contengan al menos un miembro público. Asegúrese de que el nombre del elemento importado no use ningún alias.
+#Enable Warning BC40056 ' El espacio de nombres o el tipo especificado en el 'WApp_Gest9' Imports no contienen ningún miembro público o no se encuentran. Asegúrese de que el espacio de nombres o el tipo se hayan definido y de que contengan al menos un miembro público. Asegúrese de que el nombre del elemento importado no use ningún alias.
 
 Module Module_Central
 
