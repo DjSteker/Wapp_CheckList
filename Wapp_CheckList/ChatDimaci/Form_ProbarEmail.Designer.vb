@@ -155,7 +155,7 @@ Partial Class Form_ProbarEmail
         Me.TextBox_CorreoDestino.Name = "TextBox_CorreoDestino"
         Me.TextBox_CorreoDestino.Size = New System.Drawing.Size(267, 20)
         Me.TextBox_CorreoDestino.TabIndex = 66
-        Me.TextBox_CorreoDestino.Text = "ivanmarvill@yahoo.com"
+        Me.TextBox_CorreoDestino.Text = "@"
         '
         'TextBox_HostSMTP
         '
