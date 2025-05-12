@@ -552,26 +552,4 @@
       </item>
     </funciones>
   </checklist>
-  <checklist id="902c3e40-cac8-46ae-888c-75016282820f" nombre="Extracción de pico" tipo="Licor" tematica="Medicina">
-    <funciones>
-      <item id="a239839c-8945-4e40-90ea-eebd78a7d0e7">
-        <descripcion>
-          Se rellena el el un cuarto asta un tercio de picado de (aconsejado moler en molinillo eléctrico de café) .
-
-          8 gramos de misxtura de ganoderma y 47ml de alcohol tridestilado 37,5% quedando una solucion de 32%alc./vol
-
-          Se deja macerar  removiendo
-          Se cuela después de a macerar
-          Aguanta el extracto durante 6 meses
-          Con los restos se puede hacer una extracción como el café
-
-
-          8 gramos de misxtura de ganoderma y 47ml de alcohol tridestilado 40%quedando una solucion de 37%alc./vol
-        </descripcion>
-        <completado>False</completado>
-        <notas>
-        </notas>
-      </item>
-    </funciones>
-  </checklist>
 </checklists>
