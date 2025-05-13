@@ -80,16 +80,16 @@
         Try
 
             Dim Valor As String = ComboBox_Idioma.Text.Trim.ToLower
-            If "es-ES" = Valor Then
+            If "es-es" = Valor Then
                 System.Globalization.CultureInfo.CurrentUICulture = New System.Globalization.CultureInfo("es-ES")
-            ElseIf "en-US" = Valor Then
+            ElseIf "en-us" = Valor Then
                 System.Globalization.CultureInfo.CurrentUICulture = New System.Globalization.CultureInfo("en-US")
-            ElseIf "fr-FR" = Valor Then
+            ElseIf "fr-fr" = Valor Then
                 System.Globalization.CultureInfo.CurrentUICulture = New System.Globalization.CultureInfo("fr-FR")
-            ElseIf "de-DE" = Valor Then
+            ElseIf "de-de" = Valor Then
                 System.Globalization.CultureInfo.CurrentUICulture = New System.Globalization.CultureInfo("de-DE")
-            ElseIf ComboBox_Idioma.Text = Valor Then
-                System.Globalization.CultureInfo.CurrentUICulture = New System.Globalization.CultureInfo("es-ES")
+            ElseIf "" = Valor Then
+                System.Globalization.CultureInfo.CurrentUICulture = New System.Globalization.CultureInfo("")
             End If
 
         Catch ex As Exception
